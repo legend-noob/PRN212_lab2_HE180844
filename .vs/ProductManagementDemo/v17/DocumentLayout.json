@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{817E78A4-3123-4325-8DDB-3379FCC3869A}|WPFApp\\WPFApp.csproj|C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{817E78A4-3123-4325-8DDB-3379FCC3869A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC2B7E5-E981-4D95-BFD8-5C991F990A6C}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\duyth\\downloads\\productmanagementdemo\\productmanagementdemo\\productmanagementdemo\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC2B7E5-E981-4D95-BFD8-5C991F990A6C}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC2B7E5-E981-4D95-BFD8-5C991F990A6C}|DataAccessObjects\\DataAccessObjects.csproj|C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC2B7E5-E981-4D95-BFD8-5C991F990A6C}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E78A4-3123-4325-8DDB-3379FCC3869A}|WPFApp\\WPFApp.csproj|C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{817E78A4-3123-4325-8DDB-3379FCC3869A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E78A4-3123-4325-8DDB-3379FCC3869A}|WPFApp\\WPFApp.csproj|C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817E78A4-3123-4325-8DDB-3379FCC3869A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D39802-5FAB-4F99-9D92-948F1D915A29}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D39802-5FAB-4F99-9D92-948F1D915A29}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\MyStoreContext.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessObjects\\MyStoreContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:00:50.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T07:53:08.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T07:48:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwIwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:47:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:39:36.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:43:05.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
