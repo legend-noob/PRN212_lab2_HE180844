@@ -1,51 +1,76 @@
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
-C:\Users\MINH CHAU\source\repos\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
-C:\Users\DUYTH\Downloads\ProductManagementDemo\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\duyba\Downloads\Lab02-master\Lab02-master\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\DUYTH\Downloads\Lab02\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll

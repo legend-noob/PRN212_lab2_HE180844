@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {}
+    "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\DUYTH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\obj\\",
+        "outputPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUYTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fcAl2IGkUNygsm+4lsfOyBhx7Dfrx9gYvuqP6eQNVffziYkK2SU+DlXwjplyEMf5mkn6gISfBnKzJwF/HQmtw==",
+  "dgSpecHash": "1n32bNHe+7XqVxvk5ijq4W/GwusYK/cWe+5iVnHidq22g25nH67vUnzTFeWp9Zc8eg6BWQ2foTPjQmFV2vK7wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DUYTH\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DUYTH\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

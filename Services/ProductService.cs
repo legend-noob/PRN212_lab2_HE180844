@@ -1,34 +1,45 @@
 ﻿using BusinessObjects;
 using Repositories;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Services
 {
     public class ProductService : IProductService
     {
-        private readonly IProductRepository iProductRepository;
+        private readonly IProductRepository iProductRespository;
+
         public ProductService()
         {
-            iProductRepository = new ProductRepository();
+            iProductRespository = new ProductRepository();
         }
-        public void DeleteProduct(Product p)
+
+        public void DeleteProduct(Product product)
         {
-            iProductRepository.DeleteProduct(p);
+            iProductRespository.DeleteProduct(product);
         }
+
         public Product GetProductById(int id)
         {
-            return iProductRepository.GetProductById(id);
+            return iProductRespository.GetProductById(id);
         }
+
         public List<Product> GetProducts()
         {
-            return iProductRepository.GetProducts();
+            return iProductRespository.GetProducts();
         }
-        public void SaveProduct(Product p)
+
+        public void SaveProduct(Product product)
         {
-            iProductRepository.SaveProduct(p);
+            iProductRespository.SaveProduct(product);
         }
-        public void UpdateProduct(Product p)
+
+        public void UpdateProduct(Product product)
         {
-            iProductRepository.UpdateProduct(p);
+            iProductRespository.UpdateProduct(product);
         }
     }
 }

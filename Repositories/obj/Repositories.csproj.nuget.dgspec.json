@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj": {}
+    "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\DUYTH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\obj\\",
+        "outputPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUYTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -82,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
         "packagesPath": "C:\\Users\\DUYTH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\obj\\",
+        "outputPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUYTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -127,6 +131,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -136,14 +150,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -166,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\DUYTH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUYTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,11 +196,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "C:\\Users\\DUYTH\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj"
+              "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "C:\\Users\\DUYTH\\Downloads\\Lab02\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj"
               }
             }
           }
@@ -213,6 +219,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

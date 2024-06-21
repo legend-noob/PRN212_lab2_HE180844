@@ -1,16 +1,15 @@
-﻿using BusinessObjects;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.Linq;
-
+using System.Text;
+using System.Threading.Tasks;
+using BusinessObjects;
+using ProductManagementDemo.Models;
 namespace DataAccessObjects
 {
     public class ProductDAO
     {
-
-
-        public static List<Product> GetProducts()
+        public static List<Product> GetProductList()
         {
             var listProducts = new List<Product>();
             try
@@ -19,18 +18,18 @@ namespace DataAccessObjects
                 listProducts = db.Products.ToList();
             }
             catch (Exception e)
-            { }
+            {
+            }
+
             return listProducts;
-
         }
 
-
-        public static void SaveProduct(Product p)
+        public static void SaveProduct(Product product)
         {
             try
             {
                 using var context = new MyStoreContext();
-                context.Products.Add(p);
+                context.Products.Add(product);
                 context.SaveChanges();
             }
             catch (Exception e)
@@ -39,28 +38,29 @@ namespace DataAccessObjects
             }
         }
 
-        // Cập nhật thông tin cho một sản phẩm
-        public static void UpdateProduct(Product p)
+
+        public static void UpdateProduct(Product product)
         {
             try
             {
                 using var context = new MyStoreContext();
-                context.Entry<Product>(p).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                context.Entry<Product>(product).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 context.SaveChanges();
+
             }
             catch (Exception e)
             {
                 throw new Exception(e.Message);
+
             }
         }
 
-        // Xóa một sản phẩm khỏi danh sách
-        public static void DeleteProduct(Product p)
+        public static void DeleteProduct(Product product)
         {
             try
             {
                 using var context = new MyStoreContext();
-                var p1 = context.Products.SingleOrDefault(c => c.ProductId == p.ProductId);
+                var p1 = context.Products.SingleOrDefault(c => c.ProductId == product.ProductId);
                 context.Products.Remove(p1);
                 context.SaveChanges();
             }
@@ -70,12 +70,12 @@ namespace DataAccessObjects
             }
         }
 
-        // Lấy một sản phẩm theo ID
         public static Product GetProductById(int id)
         {
-            using var db = new MyStoreContext();
-            return db.Products.FirstOrDefault(c => c.ProductId.Equals(id));
+            using var context = new MyStoreContext();
+            return context.Products.SingleOrDefault(c => c.ProductId.Equals(id));
         }
+
+
     }
 }
-
